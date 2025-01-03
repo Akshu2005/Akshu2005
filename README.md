@@ -1,4 +1,4 @@
-![logo](https://github.com/Akshu2005/Akshu2005/blob/main/Banner.png)
+![logo](https://github.com/Akshu2005/Akshu2005/blob/main/photo.png)
 <h1 align="center">Hi 👋, I'm Akanksha Srivastava</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
