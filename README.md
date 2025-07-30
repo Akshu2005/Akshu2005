@@ -1,4 +1,5 @@
-<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/e39ab03a-457a-489b-b45d-bb0e37bd8230" />
+<img width="6912" height="3456" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/483131c5-d03f-4c2a-8a99-ddfb5c95e4ab" />
+
 
 <h1 align="center">Hi 👋, I'm Akanksha Srivastava</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
